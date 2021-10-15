@@ -3,6 +3,7 @@
 
 # TUGAS 6
 ![Tampilan Implementasi Intent](https://user-images.githubusercontent.com/80370722/137422171-68898b35-302c-4745-9de3-a93b61fd202f.jpeg
+
 ![Tampilan masukkan nama anda](https://user-images.githubusercontent.com/80370722/137422197-ef3f489b-1737-4d38-9484-3f38ee2f8b5e.jpeg)
 ![Tampilan Link URL](https://user-images.githubusercontent.com/80370722/137422208-a8d950da-c21e-4c91-9a90-bdaa4e973068.jpeg)
 )
